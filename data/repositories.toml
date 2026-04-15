@@ -1,4 +1,6 @@
 repositories = [
+["freeCodeCamp"]
+url = "https://github.com/freeCodeCamp/freeCodeCamp"
   'github.com/4paradigm/OpenMLDB',
   'github.com/abpframework/abp',
   'github.com/AcademySoftwareFoundation/openvdb',
